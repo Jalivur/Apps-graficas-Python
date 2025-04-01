@@ -6,10 +6,10 @@ Este repositorio contiene varias **cheat sheets** para crear interfaces gráfica
 
 | 📄 Archivo | 📖 Descripción |
 |-----------|--------------|
-| [PyQt6 Cheat Sheet](./cheat_sheets/pyqt6_cheat_sheet_full.md) | Guía completa de PyQt6 |
-| [PySide6 Cheat Sheet](./cheat_sheets/pyside6_cheat_sheet_full.md) | Alternativa a PyQt6, con licencia LGPL |
-| [Kivy Cheat Sheet](./cheat_sheets/kivy_cheat_sheet_full.md) | Framework para interfaces táctiles y móviles |
-| [Dear PyGui Cheat Sheet](./cheat_sheets/dearpygui_cheat_sheet_full.md) | Librería ultrarrápida basada en OpenGL |
+| [PyQt6 Cheat Sheet](./archivosmd/pyqt6_cheat_sheet_full.md) | Guía completa de PyQt6 |
+| [PySide6 Cheat Sheet](./archivosmd/pyside6_cheat_sheet_full.md) | Alternativa a PyQt6, con licencia LGPL |
+| [Kivy Cheat Sheet](./archivosmd/kivy_cheat_sheet_full.md) | Framework para interfaces táctiles y móviles |
+| [Dear PyGui Cheat Sheet](./archivosmd/dearpygui_cheat_sheet_full.md) | Librería ultrarrápida basada en OpenGL |
 
 ## 🚀 Uso
 
@@ -17,7 +17,7 @@ Para ver cualquier cheat sheet, haz clic en su enlace en la tabla de arriba.
 
 ## 📌 Notas
 
-- Los archivos están en la carpeta [`cheat_sheets`](./cheat_sheets).
+- Los archivos están en la carpeta [`archivosmd`](./archivosmd).
 - Se pueden visualizar directamente en GitHub.
 - Asegúrate de instalar las dependencias correspondientes antes de usar los ejemplos.
 
