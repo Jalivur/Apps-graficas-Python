@@ -6,6 +6,8 @@ Este repositorio contiene varias **cheat sheets** para crear interfaces gráfica
 
 | 📄 Archivo | 📖 Descripción |
 |-----------|--------------|
+| [Tkinter Cheat Sheet Basica](.archivosmd/tkinter_cheat_sheet_basica.md) | Guía basica de Tkinter |
+| [Tkinter Cheat Sheet Avanzada](.archivosmd/tkinter_cheat_sheet_avanzada.md) | Guía avanzada de Tkinter |
 | [PyQt6 Cheat Sheet](./archivosmd/pyqt6_cheat_sheet_full.md) | Guía completa de PyQt6 |
 | [PySide6 Cheat Sheet](./archivosmd/pyside6_cheat_sheet_full.md) | Alternativa a PyQt6, con licencia LGPL |
 | [Kivy Cheat Sheet](./archivosmd/kivy_cheat_sheet_full.md) | Framework para interfaces táctiles y móviles |
